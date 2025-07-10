@@ -1,0 +1,20 @@
+credentials:
+  usernames:
+    your_email@gmail.com:
+      email: your_email@gmail.com
+      name: You
+      password: ""
+
+cookie:
+  expiry_days: 1
+  key: luna_signature_key
+  name: luna_auth_cookie
+
+preauthorized:
+  emails:
+    - your_email@gmail.com
+
+oauth:
+  provider: google
+  client_id: your-client-id.apps.googleusercontent.com
+  client_secret: your-client-secret

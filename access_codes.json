@@ -1,0 +1,12 @@
+{
+  "LUNA2025VIP": {
+    "uses_left": 1,
+    "expires": "2025-12-31",
+    "used_by": []
+  },
+  "LOVEFOREVER": {
+    "uses_left": 3,
+    "expires": "2025-11-01",
+    "used_by": ["guest"]
+  }
+}
